@@ -1,0 +1,82 @@
+body{
+  color:white;
+  font-family: 'Arima Madurai', cursive;
+}
+
+.container{
+  max-width: 1262px;
+}
+
+.background {
+  background-image: url(../images/b.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.btn {
+  background: transparent;
+  border-radius: 0.75rem;
+  margin:5px;
+  border: 1.5px solid white;
+  color: white;
+}
+
+.btn:hover{
+  transform: scale(1.1);
+  background-color:white;
+  color: black;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+.index{
+  text-align:center;
+  max-width:34rem;
+  margin-top:9rem;
+}
+
+.navbar {
+  padding: 0rem 1rem;
+  background-color:#00000082;
+  font-size: 1.5em;
+  font-family: 'Arima Madurai', cursive;
+}
+    
+.navbar-brand {
+  color: white;
+  font-size: 2rem!important;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+a {
+  color: #9da5ad!important;
+  max-width: 940px;
+}
+
+a:hover{
+  color: white!important;
+  background-color: transparent;
+}
+
+.dropdown-menu {
+  background-color: #00000082;
+}
+
+.dropdown-item:hover{
+  background-color: transparent;
+}
+
+footer p{
+  background-color:#00000082;
+  color: white;
+  margin-bottom: 0rem!important;
+  font-size: 0.7rem;
+}

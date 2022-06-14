@@ -1,0 +1,27 @@
+h3{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+table {
+  color:white!important;
+  text-align: center;
+}
+
+tbody {
+  display:block;
+  max-height: 70vh;
+  overflow-y: scroll;
+}
+
+tr{
+  background-color:#00000082;
+}
+
+td{
+  vertical-align:middle!important;
+}
+
+th, td {
+  border: 1px solid white!important;
+}

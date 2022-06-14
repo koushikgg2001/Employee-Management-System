@@ -1,0 +1,27 @@
+.social-icons{
+  text-align: center;
+  width:17rem;
+  margin-top:9rem;
+  vertical-align: middle;
+}
+  
+.social-icons li{
+  display: inline; 
+  padding: 0.5rem; 
+}
+  
+.github{
+  color: #adb5bd!important;
+}
+      
+.linkedin{
+  color: #0c87cb!important;
+}
+      
+.instagram{ 
+  color: #bc3b97!important;
+}
+      
+.facebook{
+  color: #1771e6!important;
+}
